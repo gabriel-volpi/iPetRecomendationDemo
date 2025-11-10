@@ -1,6 +1,6 @@
 # 🐾 iPetRecomendationDemo
 
-Repositório de demonstração vinculado ao **PetCareApp**, com foco em **recomendações personalizadas de produtos para pets**.  
+Repositório de demonstração vinculado ao **iPetRecomendationDemo App**, com foco em **recomendações personalizadas de produtos para pets**.  
 O objetivo deste projeto é explorar o uso de **Jetpack Compose**, **arquitetura limpa (MVVM)** e **injeção de dependências com Koin**, aplicadas a uma interface moderna e intuitiva.
 
 ---
